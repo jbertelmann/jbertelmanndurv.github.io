@@ -1,3 +1,5 @@
+/****** index.html ******/
+
 /*** Headline ***/
 .headlinesite {
     padding-left: 8rem;
@@ -10,7 +12,19 @@
     border-bottom: 2px solid #5cb85c;
 }
 
-/*** Article ***/
-.articlecontainer {
-    border-bottom: 0px solid #5cb85c;
+
+
+
+
+
+/****** Sportangebote.html ******/
+
+/*** 2. Navbar ***/
+.sportnav {
+    padding-left: 8rem;
+}
+
+/*** 2. Navbar border-top ***/
+.sportnavbord {
+    border-top: 2px solid #5cb85c; 
 }
