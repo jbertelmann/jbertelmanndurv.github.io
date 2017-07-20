@@ -7,3 +7,8 @@
 .headlinesite {
     padding-left: 8rem;
 }
+
+/*** Subheadlines ***/
+.subheadline {
+    font-size: 2.75rem;
+}
